@@ -15,7 +15,7 @@ install_requires = [
     'docker-py>=1.8.1,<2.0',
     'six>=1.13.0',
     'dpath<2',
-    'colorama<0.4',
+    'colorama<0.5',
 ]
 
 setup(
