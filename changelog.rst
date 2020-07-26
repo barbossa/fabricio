@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Release 0.5.9
+-------------
+
+- Enhancement: updated "colorama" package to 0.4.x
+- Enhancement: dropped old python versions for travis
+
 Release 0.5.8
 -------------
 
