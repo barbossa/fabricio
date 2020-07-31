@@ -1,7 +1,7 @@
 Changelog
 =========
 
-Release 0.5.9
+Release 0.6
 -------------
 
 - Enhancement: updated "colorama" package to 0.4.x
